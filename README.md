@@ -15,6 +15,7 @@ https://madefor.github.io/postal-code-api/
 
 ```
 https://madefor.github.io/postal-code-api/api/v1/
+-> https://jun-shimoji.github.io/postal-code-api/api/v1/
 ```
 
 ## 使い方
